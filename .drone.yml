@@ -1,5 +1,5 @@
 pipeline:
   publish:
-    image: diceone/whisperc
+    image: diceone/whispercal
     repo: diceone/whispercal
     tags: latest
