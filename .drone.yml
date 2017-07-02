@@ -1,0 +1,5 @@
+pipeline:
+  publish:
+    image: diceone/whisperc
+    repo: diceone/whispercal
+    tags: latest
